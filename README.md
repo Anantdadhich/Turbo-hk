@@ -1,3 +1,7 @@
+-in this repo you can learn turborepos which is used to run your multiple projects together
+- task runner that helps speed up and manage your Monorepo
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
